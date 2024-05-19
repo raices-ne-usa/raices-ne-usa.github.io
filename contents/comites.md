@@ -8,16 +8,16 @@ Julieta Bonvin Sallago
 Andrés Colubri
 
 #### Comité Científico (Executive Committee):
-Andrea Capurro
-Germán Drazer
-Gustavo Mostoslavsky
-Raul Mostoslavsky
-Daniel Szyld
-Carlos Wexler
+- Andrea Capurro
+- Germán Drazer
+- Gustavo Mostoslavsky
+- Raul Mostoslavsky
+- Daniel Szyld
+- Carlos Wexler
 
 #### Coordinadores Científicos Eméritos (Chair Emeriti):
-Horacio G. Rotstein
-Sebastián Ceria
+- Horacio G. Rotstein
+- Sebastián Ceria
 
 #### Coordinador de Prensa y Medios Sociales
 Vacante
